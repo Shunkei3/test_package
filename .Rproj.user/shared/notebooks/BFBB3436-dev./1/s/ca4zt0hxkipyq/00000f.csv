@@ -1,0 +1,13 @@
+"0","usethis::use_data_raw()"
+"1","[32m✔[39m Creating [34m'data-raw/'[39m
+"
+"1","[32m✔[39m Adding [34m'^data-raw$'[39m to [34m'.Rbuildignore'[39m
+"
+"1","[32m✔[39m Writing [34m'data-raw/DATASET.R'[39m
+"
+"1","[31m•[39m Modify [34m'data-raw/DATASET.R'[39m
+"
+"1","[31m•[39m Finish the data preparation script in [34m'data-raw/DATASET.R'[39m
+"
+"1","[31m•[39m Use [90m`usethis::use_data()`[39m to add prepared data to package
+"

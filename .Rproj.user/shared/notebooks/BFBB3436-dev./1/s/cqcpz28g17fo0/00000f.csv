@@ -1,0 +1,11 @@
+"0","usethis::use_mit_license()"
+"1","[32m✔[39m Setting active project to [34m'/Users/shunkeikakimoto/Library/CloudStorage/Dropbox/git/test_package/test.package'[39m
+"
+"1","[32m✔[39m Adding [34m'MIT + file LICENSE'[39m to [32mLicense[39m
+"
+"1","[32m✔[39m Writing [34m'LICENSE'[39m
+"
+"1","[32m✔[39m Writing [34m'LICENSE.md'[39m
+"
+"1","[32m✔[39m Adding [34m'^LICENSE\\.md$'[39m to [34m'.Rbuildignore'[39m
+"
